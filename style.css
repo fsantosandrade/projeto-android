@@ -161,7 +161,6 @@ aside > ul {
 footer {
     background-color: #005500;
     color: white;
-    text-align: center;
     padding: 5px;
     margin: 2px;
 }
@@ -172,4 +171,5 @@ span {
 
 footer > p {
     margin: 0px;
+    text-align: center;
 }
